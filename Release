@@ -1,0 +1,10 @@
+Origin: Wubs Repo
+Label: Wubs Repo
+Suite: stable
+Version: 1.0
+Codename: WUB
+Architectures: iphoneos-arm
+Components: main
+Description: Wub Repo
+Icon: file://CydiaIcon.png
+MD5Sum:

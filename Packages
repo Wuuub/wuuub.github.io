@@ -1,0 +1,47 @@
+Package: com.wuuub.zeppelinofficialshiftedpack
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Sliced <slicedsquiggles@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: debs//zeppelinofficialshiftedpack.deb
+Size: 113290
+MD5sum: 0e8e433ba23a96d0103e0973e0dd1819
+SHA1: 917aa9ac432fa1786e7943a65e2885a2e62722e8
+SHA256: 97f48f00d977d5db8638000f3fe42cb5905eca9e8e05a7e6be6f3748994aaa2a
+Section: Zeppelin
+Description: This pack includes OfficialShifted's sub emotes, and his logo.
+Author: Sliced <slicedsquiggles@gmail.com>
+Depiction: https://repo.cock.cu.cc/depictions/com.wuuub.zeppelinofficialshiftedpack/index.html
+Name: OfficialShifted Zeppelin Pack
+
+Package: com.wuuub.pokeballbootlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sliced <slicedsquiggles@gmail.com>
+Depends: winterboard
+Filename: debs//pokeballbootlogo.deb
+Size: 98130
+MD5sum: 0157cd14ff9f6ce2588f63f60c7c6954
+SHA1: 7acfb3c40443589b1bf7318dcb8d0faa04cd0f26
+SHA256: c5a7c7371a10dac4ab06bf28947d0163421f7cd84c8ce205620f082816f6e524
+Section: Winterboard
+Description: Pokeball Boot Logo, to be used with WinterBoard.
+Author: Sliced <slicedsquiggles@gmail.com>
+Depiction: https://repo.cock.cu.cc/depictions/com.wuuub.pokeballbootlogo/index.html
+Name: Pokeball Boot Logo
+
+Package: com.wuuub.zeppelinallpokemonspritespack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sliced <slicedsquiggles@gmail.com>
+Depends: com.alexzielenski.zeppelin
+Filename: debs//zeppelinallpokemonspritespack.deb
+Size: 5497382
+MD5sum: 807e80da2728d8677872045856bc05d6
+SHA1: d28f9e855c7eb0345e3e7ef6ba160796e029c925
+SHA256: 84b87a57aa835a3f699565c8e7bed297420c9d523233e96e61b443b7856ee5b5
+Section: Zeppelin
+Description: All 721 Pokemon sprites as Zeppelins. Will be updated as new pokemon are released.
+Author: Sliced <slicedsquiggles@gmail.com>
+Depiction:https://repo.cock.cu.cc/depictions/com.wuuub.zeppelinallpokemonspritespack/index.html
+Name: Zeppelin - All Pokemon Sprites Pack
