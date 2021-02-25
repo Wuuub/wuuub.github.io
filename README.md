@@ -1,5 +1,6 @@
 # Cydia Jailbreak Repo
-Brought back from the dead, still supports the latest JB I can test on IOS 13.7 (checkra1n)
+~~Brought back from the dead, still supports the latest JB I can test on IOS 13.7 (checkra1n)~~
+Repo is down due to a username change, working on bringing back the MusicBee remote package also
 
 # Tutorial:
 1. Have a jailbroken iOS device
